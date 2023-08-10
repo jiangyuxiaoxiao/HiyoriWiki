@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c546f4ae","path":"/Release/venv/Lib/site-packages/uvicorn-0.23.1.dist-info/licenses/LICENSE.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"Release/venv/Lib/site-packages/uvicorn-0.23.1.dist-info/licenses/LICENSE.md"}');export{e as data};

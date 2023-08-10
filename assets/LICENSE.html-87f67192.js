@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-186120ae","path":"/Release/venv/Lib/site-packages/idna-3.4.dist-info/LICENSE.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"Release/venv/Lib/site-packages/idna-3.4.dist-info/LICENSE.md"}');export{e as data};

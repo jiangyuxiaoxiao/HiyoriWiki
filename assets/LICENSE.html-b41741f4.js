@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c4cfadfc","path":"/Release/venv/Lib/site-packages/starlette-0.27.0.dist-info/licenses/LICENSE.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"Release/venv/Lib/site-packages/starlette-0.27.0.dist-info/licenses/LICENSE.md"}');export{e as data};
